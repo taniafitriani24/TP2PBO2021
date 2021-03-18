@@ -1,0 +1,12 @@
+Saya Tania Fitriani mengerjakan TP 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
+ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+# Kesulitan dan yg dipelajari
+  - sulit mengatur tampilan panel
+  - sulit mengatur size foto
+  - belajar mendesain tampilan agar lebih menarik
+  - belajar sabar :)
+
+# Fitur
+  - memasukan data dari form ke database
+  - menampilkan data dari database
